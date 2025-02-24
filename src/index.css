@@ -1,0 +1,8 @@
+.main {
+  width: max-content;
+  height: fit-content;
+}
+
+* {
+  background-color: azure;
+}
